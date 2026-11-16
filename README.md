@@ -18,7 +18,6 @@
 <p align="center">
   <a href="https://www.elexoft.com/"><img src="https://img.shields.io/badge/Elexoft-Technologies-00C6FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Elexoft"/></a>
   <a href="https://www.linkedin.com/in/muhammadwahajnaveed/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://wahajnaveed.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:contactwahajnaveed@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/ESE-Wahaj"><img src="https://img.shields.io/badge/Personal%20GitHub-ESE--Wahaj-181717?style=for-the-badge&logo=github&logoColor=white" alt="Personal GitHub"/></a>
 </p>
@@ -40,7 +39,7 @@ $ whoami
 - 🧠 **Full Stack AI Engineer** at **[Elexoft Technologies](https://www.elexoft.com/)**, based in Pakistan 🇵🇰
 - 🤖 I build **AI agents, integrations and workflow automation** that run in production for real businesses
 - 🏗️ I own features **end-to-end**: model → API → database → UI → Docker → deployment
-- 🍽️ Engineering **[Weave POS](https://weavekot.com)**: an offline-first restaurant point of sale with a cloud back office
+- 🍽️ Engineering **Weave POS**: an offline-first restaurant point of sale with a cloud back office
 - 🖼️ Built a **self-hosted computer-vision API** that turns portraits into fitted, sticker-style profile art
 - 🔐 I care about **privacy by design, clean architecture and shipping things that don't break**
 - 🌱 Always learning: LLM agents, MLOps, distributed systems
@@ -109,7 +108,7 @@ engineer:
 <tr>
 <td width="50%" valign="top">
 
-### 🍽️ [Weave POS](https://weavekot.com)
+### 🍽️ Weave POS
 **The restaurant point of sale that keeps cooking when the internet doesn't.**
 
 Orders, kitchen display, order board, delivery, stock and shift close run on the PC the restaurant already has, with a cloud back office that keeps every branch in step within seconds.
@@ -129,7 +128,7 @@ Orders, kitchen display, order board, delivery, stock and shift close run on the
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-🌐 [weavekot.com](https://weavekot.com) · [Admin portal](https://admin.weavekot.com)
+🔒 Private client project
 
 </td>
 <td width="50%" valign="top">
@@ -243,7 +242,7 @@ Need an **AI agent**, a **workflow automation**, a **computer-vision API** or a 
 
 - 🏢 **Hire Elexoft:** [elexoft.com](https://www.elexoft.com/) · [info@elexoft.com](mailto:info@elexoft.com)
 - 👤 **Reach me directly:** [contactwahajnaveed@gmail.com](mailto:contactwahajnaveed@gmail.com)
-- 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/muhammadwahajnaveed/) · [Portfolio](https://wahajnaveed.vercel.app/)
+- 🤝 **Connect:** [LinkedIn](https://www.linkedin.com/in/muhammadwahajnaveed/)
 
 <br clear="right"/>
 
