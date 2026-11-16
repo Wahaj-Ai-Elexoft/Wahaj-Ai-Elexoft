@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Wahaj%20%40%20Elexoft&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Building%20software%20that%20works%20%26%20automations%20that%20think&descAlignY=58&descSize=17" width="100%" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=220&section=header&text=Wahaj%20%40%20Elexoft&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20AI%20Engineer%20%E2%80%A2%20Building%20software%20that%20works%20and%20automations%20that%20think&descAlignY=58&descSize=17" width="100%" alt="header"/>
 </p>
 
 <p align="center">
